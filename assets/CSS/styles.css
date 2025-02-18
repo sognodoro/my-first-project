@@ -1,6 +1,4 @@
 body{background-color:lightgrey;
 background-image: url(../images/01-02-02_background-img.jpeg);}
-p{
-    bold;}
-.{text-center;
-text-align:center ;}
+.text-center{text-align:center ;}
+p{font-weight: bold;}
