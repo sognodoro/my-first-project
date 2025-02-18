@@ -1,4 +1,4 @@
-body{background-color:lightgrey;
-background-image: url(assets/images/01-02-02_background-img.jpeg);
+body{background-color:lightgrey;}
+background-image: url(/assets/images/01-02-02_background-img.jpeg);
 .text-center{text-align:center ;}
 p{font-weight: bold;}
